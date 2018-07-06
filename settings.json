@@ -1,0 +1,6 @@
+{
+  "yt_api_key": "process.env.API_KEY",
+  "discord_token": "process.env.BOT_TOKEN",
+  "bot_controller": "464630967475240961",
+  "prefix": "~"
+}
